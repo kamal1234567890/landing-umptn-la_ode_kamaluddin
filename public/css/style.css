@@ -839,6 +839,10 @@ video {
     margin-bottom: auto;
   }
 
+  .lg\:w-4\/6 {
+    width: 66.666667%;
+  }
+
   .lg\:w-1\/2 {
     width: 50%;
   }
